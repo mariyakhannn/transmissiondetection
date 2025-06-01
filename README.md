@@ -1,7 +1,15 @@
-# Transmission Line Fault Detection With YOLOv8
+# Transmission Line Fault Detection with YOLOv8
 
-This is the code for identifying insulator defects using YOLOv8. 
-I use Ultralytics version of YOLOv8, a Roboflow dataset, Pytorch, and Google Colab. 
-You can follow along with my tutorial [here](https://medium.com/@vinayasharmaa/solving-grid-challenges-with-yolov8-object-detection-%EF%B8%8F-6cb061cb779d). 
+ Detecting defects in transmission line insulators using deep learning and computer vision.
 
-![image](https://user-images.githubusercontent.com/63084147/232233470-7f4c2394-d64b-494d-8290-de23f694d9c6.png)
+
+## Overview
+
+This project uses [YOLOv8](https://github.com/ultralytics/ultralytics) (Ultralytics) to identify faults in transmission line insulators. It uses a labeled dataset from Roboflow and runs in Google Colab for fast prototyping and training.
+
+>  Built with PyTorch, Ultralytics YOLOv8, Roboflow, and Google Colab.
+
+---
+
+![image](https://github.com/user-attachments/assets/92db6899-4342-47e2-bd02-8fc0a71fdeb8)
+
